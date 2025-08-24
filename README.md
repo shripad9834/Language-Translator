@@ -52,11 +52,11 @@ This app allows users to translate text between multiple languages, input using 
 
 ## 📸 Screenshots  
 
- ![Image](https://github.com/user-attachments/assets/c001ec40-10ec-4852-a0f8-6d31e4c46cef)
-
-![Image](https://github.com/user-attachments/assets/ac7785c8-b288-4de7-9023-3f7c4d1287ba)
-
-![Image](https://github.com/user-attachments/assets/53c36c4b-089c-4f97-903b-071467da6dc7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c001ec40-10ec-4852-a0f8-6d31e4c46cef" alt="Home Page" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ac7785c8-b288-4de7-9023-3f7c4d1287ba" alt="Login" width="250"/>
+  <img src="https://github.com/user-attachments/assets/53c36c4b-089c-4f97-903b-071467da6dc7" alt="Register" width="250"/>
+</p>
 
 ---
 
